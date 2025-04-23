@@ -1,24 +1,14 @@
 {
-    "name": "apimatic-sdks/apimaticcalculatorbyclient",
-    "description": "Simple calculator API hosted on APIMATIC",
+    "name": "muhamza/calculator",
+    "description": "Use the calculator api to perform arithmetic between two numbers",
     "type": "library",
-    "keywords": [
-        "APIMATIC Calculator By Client",
-        "API",
-        "SDK"
-    ],
+    "keywords": [],
     "homepage": "https://www.apimatic.io",
     "license": [
         "MIT"
     ],
-    "authors": [
-        {
-            "name": "APIMatic Code Generator",
-            "email": "support@apimatic.io",
-            "homepage": "https://www.apimatic.io",
-            "role": "API Tool"
-        }
-    ],
+    "authors": [],
+    "support": {},
     "prefer-stable": false,
     "require": {
         "php": "^7.2 || ^8.0",
